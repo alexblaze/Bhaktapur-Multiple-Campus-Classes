@@ -1,0 +1,37 @@
+
+.main-bottom-section {
+    margin-top: 65px;
+    text-align: center;
+
+}
+
+.item {
+    display: inline-block;
+    width: 20%;
+    background: #D6CFC9;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.item-image {
+    width: 100%;
+    display: block;
+}
+
+.full-width-item {
+    width: 40%;
+    margin:0 auto 20px;
+    cursor: pointer;
+
+}
+
+
+.large-item {
+    width: 40%;
+    margin:0 auto 20px;
+    cursor: pointer;
+
+}
+
+

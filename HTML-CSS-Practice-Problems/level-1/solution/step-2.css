@@ -1,0 +1,40 @@
+/* Add styles to match the step-2 design */
+
+.content-left {
+  padding: 20px;
+}
+
+.header {
+  padding: 20px;
+}
+
+.profile-image-container {
+    background: #96F0F2;
+    width: auto;
+    height: 30%;
+    margin-bottom: 20px
+}
+
+.profile-links-container {
+    background: #12F3F7;
+    width: auto;
+    height: calc( 70% - 20px );
+}
+
+.logo-container {
+    background: #4F4949;
+    height: 100%;
+    width: 300px;
+    float: left;
+}
+
+.menu-container {
+    background: #4F4949;
+    height: 100%;
+    width: 50px;
+    float: right;
+}
+
+
+
+
